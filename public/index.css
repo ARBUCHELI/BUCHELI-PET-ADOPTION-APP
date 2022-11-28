@@ -201,3 +201,101 @@ body {
   justify-content: center;
   padding: 32px 0;
 }
+
+@media (max-width: 821px) {
+  .nav-link {
+    font-size: 24px;
+  }
+  .search {
+    width: 130px;
+  }
+  .hero-container {
+    text-align: center;
+  }
+}
+
+@media (max-width: 541px) {
+  .nav-link {
+    font-size: 16px;
+  }
+  .search {
+    width: 130px;
+  }
+  .hero-container {
+    text-align: center;
+  }
+}
+
+@media (max-width: 415px) {
+  .nav-link {
+    font-size: 12px;
+  }
+  .search {
+    width: 130px;
+  }
+  .hero-container {
+    text-align: center;
+  }
+}
+
+@media (max-width: 394px) {
+  .nav-link {
+    font-size: 10px;
+  }
+  .search {
+    width: 110px;
+  }
+  .hero-container {
+    text-align: center;
+  }
+}
+
+@media (max-width: 391px) {
+  .nav-link {
+    font-size: 10px;
+  }
+  .search {
+    width: 100px;
+  }
+  .hero-container {
+    text-align: center;
+  }
+}
+
+@media (max-width: 376px) {
+  .nav-link {
+    font-size: 10px;
+  }
+  .search {
+    width: 100px;
+  }
+  .hero-container {
+    text-align: center;
+  }
+}
+
+@media (max-width: 361px) {
+  .nav-link {
+    font-size: 9.5px;
+  }
+  .search {
+    width: 80px;
+  }
+  .hero-container {
+    text-align: center;
+  }
+}
+
+@media (max-width: 281px) {
+  .nav-link {
+    font-size: 9.5px;
+  }
+  .search {
+    width: 50px;
+  }
+  .hero-container {
+    text-align: center;
+    width: 100%;
+  }
+}
+

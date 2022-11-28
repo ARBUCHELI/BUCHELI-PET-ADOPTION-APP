@@ -34,6 +34,6 @@ const getHeroTitle = (type) => {
     case 'bird':
       return 'Birds';
     default:
-      return 'Buchel Pet Adoption App';
+      return 'Bucheli Pet Adoption App';
   }
 };

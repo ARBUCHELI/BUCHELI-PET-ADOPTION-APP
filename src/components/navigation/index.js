@@ -31,7 +31,7 @@ const Navigation = () => {
             activeClassName='nav-link-active'
             exact
           >
-            All Pets
+            Pets
           </NavLink>
         </li>
         {petTypes
